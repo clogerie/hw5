@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  .jumbotron{
+      text-align: center;
+      background-color: lightblue;
+      color: black;
+      border-bottom: 10px solid black;
+  
+  }
+  
+  .form-control{
+    background: transparent;
+    color: black;
+    border-left: 1px solid black;
+    padding: 10px;
+    width: 920px;
+  }
+  
+  .past {
+    background-color: grey;
+    color: white;
+  }
+  
+  .present {
+    background-color: red;
+    color: white;
+  }
+  
+  .future {
+    background-color: green;
+    color: white;
+  }
+  
+  
